@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Artem Horbunov
 
-<!--
-**artemohorbunov/artemohorbunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Backend Java Developer | CS Student | Linux Enthusiast**
 
-Here are some ideas to get you started:
+I'm currently studying Computer Science at Oklahoma City Community College and working hard toward a career in backend development. I enjoy building clean, efficient command line tools and exploring open source technologies. I'm especially passionate about Java, Linux systems, and sharpening my problem solving skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Java, JavaScript, Python, HTML, CSS
+- **Frameworks & Libraries:** React.js, Node.js
+- **Tools & Technologies:** Git, Bash, Vim, Nano, SSH, Systemd, Vite, Firebase
+- **OS:** Linux (Debian-based, daily driver), i3 Window Manager
+- **Currently Learning:** Java Core, Data Structures and Algorithms
+- **Next Up:** Spring Boot, REST APIs, SQL
+
+---
+
+## 📘 Featured Projects
+
+### 🏦 [CLI Banking App](https://github.com/artemohorbunov/cli-banking-app)
+A simple Java-based terminal application that allows users to manage a savings account, deposit/withdraw funds, and view interest. Written entirely from scratch using object oriented principles.
+
+---
+
+## 🛠 Projects in Progress
+
+- Spring Boot REST API project
+
+---
+
+## 🧠 Current Goals
+
+- Finish Java backend roadmap
+- Get a Java development job or IT support role
+- Get a CS Degree
+- Continue contributing to open source
+
+---
+
+## 📬 Get in Touch
+
+- ✉️ Email: [artemohorbunov@gmail.com]
+- 🌐 Portfolio: [https://artworksartemhorbunov.web.app/]
+
+---
+
+> "Anyone who stops learning is old, whether at twenty or eighty." - Henry Ford
+
+Thanks for stopping by!
+
